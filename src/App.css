@@ -1,0 +1,11 @@
+#root{
+	margin: 0 auto;
+	padding: 0 1rem;
+	background: linear-gradient(100deg, #27744d, #feb47b,#c25555);
+}
+.pokemon:hover{
+	box-shadow: 5px 5px 5px 3px rgba(0, 0, 0, 0.5);
+}
+span{
+	color: red;
+}i
